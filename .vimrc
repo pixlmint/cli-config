@@ -7,8 +7,6 @@ set number
 " Needed for Icons Plugin
 set encoding=UTF-8
 
-set guifont=JetBrains\ MonoNL\ Nerd\ Font\ 11
-
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
@@ -20,7 +18,6 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'wakatime/vim-wakatime'
 Plugin 'preservim/nerdtree'
 Plugin 'vim-airline/vim-airline'
 Plugin 'Xuyuanp/nerdtree-git-plugin'

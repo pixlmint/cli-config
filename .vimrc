@@ -9,3 +9,4 @@ set encoding=UTF-8
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
+syntax on
